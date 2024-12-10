@@ -1,15 +1,13 @@
-<h1 align="center">Hi 👋, I'm Ayush the Dev</h1>
-<h3 align="center">A passionate frontend developer and aspiring full stack developer from India</h3>
+<h1 align="center">Hi 👋, I'm Ayush</h1>
+<h3 align="center">A passionate frontend developer and aspiring full stack developer</h3>
 
-- 🔭 I’m currently working on **my personal portfolio website**
+- 🔭 Aspiring Full Stack Developer
 
 - 🌱 I’m currently learning **javascript -> reactjs**
 
 - 👯 I’m looking to collaborate on **frontend projects**
 
 - 📫 How to reach me **ayush70rnjn@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
